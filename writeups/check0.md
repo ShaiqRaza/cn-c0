@@ -9,9 +9,9 @@ I collaborated with: [23L-0599]
 
 I would like to credit/thank these classmates for their help: [list sunetids here]
 
-This lab took me about [n] hours to do. I [did/did not] attend the lab session.
+This lab took me about [13] hours to do. I [did/did not] attend the lab session.
 
-My secret code from section 2.1 was: [code here]
+My secret code from section 2.1 was: [885484]
 
 I was surprised by or edified to learn that: [describe]
 
@@ -23,9 +23,9 @@ bugs, asymptotic performance, empirical performance, required
 implementation time and difficulty, and other factors. Include any
 measurements if applicable.]
 
-- Optional: I had unexpected difficulty with: [describe]
+- Optional: I had unexpected difficulty with: [Syntax]
 
-- Optional: I think you could make this lab better by: [describe]
+- Optional: I think you could make this lab better by: [Describing things in not confusing way]
 
 - Optional: I'm not sure about: [describe]
 
