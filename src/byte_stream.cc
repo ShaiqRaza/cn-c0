@@ -44,11 +44,11 @@ string_view Reader::peek() const
 
 void Reader::pop( uint64_t len )
 {
-  while(len > 0) {
-    buffer_.erase(0, 1)
-    bytes_popped_++;
-    len--;
+  if (len > buffer_.size()) {
+    len = buffer_.size();  // can only pop what's available
   }
+  buffer_.erase(0, len);
+  bytes_popped_ += len;
 }
 
 bool Reader::is_finished() const
