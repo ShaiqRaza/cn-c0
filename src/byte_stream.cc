@@ -8,11 +8,11 @@ void Writer::push( string data )
 {
   uint64_t available = capacity_ - buffer_.size();
   if(available >= data.size()) {
-    buffer_ += data;
+    buffer_.append(data.data(), data.size());
     bytes_pushed_ += data.size();
   }//when data is bigger than the available space: to hum available space ko hi fill karein gai, baaqi data loss 
   else {
-    buffer_ += data.substr(0, available);
+    buffer_.append(data.data(), available); 
     bytes_pushed_ += available;
   }
 }
