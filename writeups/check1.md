@@ -1,17 +1,17 @@
 Checkpoint 1 Writeup
 ====================
 
-My name: [your name here]
+My name: [Shaiq Raza]
 
-My SUNet ID: [your sunetid here]
+My SUNet ID: [23L-0985]
 
-I collaborated with: [list sunetids here]
+I collaborated with: [23L-0599]
 
 I would like to thank/reward these classmates for their help: [list sunetids here]
 
 This lab took me about [n] hours to do. I [did/did not] attend the lab session.
 
-I was surprised by or edified to learn that: [describe]
+I was surprised by or edified to learn that: [networking is too complex]
 
 Report from the hands-on component of the lab checkpoint: [include
 information from 2.1(4), and report on your experience in 2.2]
@@ -25,13 +25,13 @@ implementation time and difficulty, and other factors. Include any
 measurements if applicable.]
 
 Implementation Challenges:
-[]
+[edge cases or tests expectations - no clear description was given so...]
 
 Remaining Bugs:
-[]
+[nothing I guess]
 
-- Optional: I had unexpected difficulty with: [describe]
+- Optional: I had unexpected difficulty with: [description]
 
-- Optional: I think you could make this lab better by: [describe]
+- Optional: I think you could make this lab better by: [describing well]
 
 - Optional: I'm not sure about: [describe]
